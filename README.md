@@ -2,8 +2,8 @@
 
 <h1 align="center">Hello 👋 I am SeenKid.</h1>
 
-    🔭 Working in EPTM / Creative Technologies
-    🌱 Information Technologist, Federal Diploma of Vocational Education and Training Specialism Application Development
+    🔭 In apprenticeship 
+    🌱 Studying to be : Information Technologist, Federal Diploma of Vocational Education and Training Specialism Application Development
     👯 Do not ask to work with me. I'm working alone.
     🤔 I dont need any help for my projects.
     💬 If you need informations about my project, contact me.
