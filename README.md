@@ -11,10 +11,12 @@
     ⚡ Fun fact: My favorite animal is the bunny (bcz of the bhop (bunny hop) and they're cute)
     👾 My favorite video games are Seen and Counter-strike (Source & GO)
     
-<p> <a href="https://twitter.com/seenkidbhop" target="blank"><img src="https://img.shields.io/twitter/follow/seenkidbhop?logo=twitter&style=for-the-badge" alt="seenkidbhop" /></a> </p>
+<center>
+    <p> <a href="https://twitter.com/seenkidbhop" target="blank"><img src="https://img.shields.io/twitter/follow/seenkidbhop?logo=twitter&style=for-the-badge" alt="seenkidbhop" /></a> </p>
 
 <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=seenkid&theme=onedark&row=2&column=4" alt="seenkid" /></a> </p>
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=seenkid&show_icons=true&locale=en&layout=compact" alt="seenkid" /></p>
 
 ![](https://raw.githubusercontent.com/SeenKid/SeenKid/master/picture.gif)
+    </center>
