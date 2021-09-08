@@ -16,4 +16,5 @@
 <p text-align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=seenkid&theme=onedark&row=2&column=4" alt="seenkid" /></a> </p>
 
 <p text-align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=seenkid&show_icons=true&locale=en&layout=compact" alt="seenkid" /></p>
-<center> ![](https://raw.githubusercontent.com/SeenKid/SeenKid/master/picture.gif) </center>
+
+![](https://raw.githubusercontent.com/SeenKid/SeenKid/master/picture.gif)
