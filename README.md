@@ -1,5 +1,5 @@
 
-[<img align="right" src="https://visitor-badge.glitch.me/badge?page_id=SeenKid.SeenKid"/>][myprofile]
+<img align="right" src="https://visitor-badge.glitch.me/badge?page_id=SeenKid.SeenKid"/>
 <h1 align="center">Hello 👋 I am SeenKid.</h1> 
 
     🔭 In apprenticeship 
