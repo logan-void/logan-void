@@ -1,6 +1,6 @@
 
-
-<h1 align="center">Hello 👋 I am SeenKid.</h1>
+[<img align="right" src="https://visitor-badge.glitch.me/badge?page_id=SeenKid.SeenKid"/>][myprofile]
+<h1 align="center">Hello 👋 I am SeenKid.</h1> 
 
     🔭 In apprenticeship 
     🌱 Studying to be : Information Technologist, Federal Diploma of Vocational Education and Training Specialism Application Development
@@ -20,7 +20,7 @@
 </a>
 </p>
 
-### 🤝🏻 &nbsp;Retrouve moi facilement ici
+### 🤝🏻 &nbsp;Find me here :
 
 <p align="center">
 <a href="https://www.instagram.com/nkwcxnn/"><img src="https://img.shields.io/badge/-@nkwcxnn-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
