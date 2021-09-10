@@ -27,8 +27,17 @@
 <a href="https://twitch/status/Seenkidbhop"><img src="https://img.shields.io/twitch/status/Seenkidbhop?style=social"/></a>
 <a href="https://www.youtube.com/channel/UCkef2tpJ14Lkv2uiNvH4pog"><img src="https://img.shields.io/youtube/channel/subscribers/UCkef2tpJ14Lkv2uiNvH4pog?style=social"/></a>
 <a href="https://twitter.com/seenkidbhop" target="blank"><img src="https://img.shields.io/twitter/follow/seenkidbhop?logo=twitter&style=for-the-badge" alt="seenkidbhop" /></a>
-
 </p>
 
+### 🛠 &nbsp;Tools
+
+
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
 
 ![](https://raw.githubusercontent.com/SeenKid/SeenKid/master/picture.gif)
