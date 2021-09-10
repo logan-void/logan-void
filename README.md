@@ -26,7 +26,7 @@
 <a href="https://www.instagram.com/nkwcxnn/"><img src="https://img.shields.io/badge/-@nkwcxnn-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://twitch/status/Seenkidbhop"><img src="https://img.shields.io/twitch/status/Seenkidbhop?style=social"/></a>
 <a href="https://www.youtube.com/channel/UCkef2tpJ14Lkv2uiNvH4pog"><img src="https://img.shields.io/youtube/channel/subscribers/UCkef2tpJ14Lkv2uiNvH4pog?style=social"/></a>
-<a href="https://twitter.com/seenkidbhop" target="blank"><img src="https://img.shields.io/twitter/follow/seenkidbhop?logo=twitter&style=for-the-badge" alt="seenkidbhop" /></a>
+<a href="https://twitter.com/seenkidbhop" target="blank"><img src="https://img.shields.io/twitter/follow/Seenkidbhop?style=social" alt="seenkidbhop" /></a>
 </p>
 
 ### 🛠 &nbsp;Tools
