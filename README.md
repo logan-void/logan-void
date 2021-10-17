@@ -29,12 +29,6 @@
 <a href="https://twitter.com/seenkidbhop" target="blank"><img src="https://img.shields.io/twitter/follow/Seenkidbhop?style=social" alt="seenkidbhop" /></a>
 </p>
 
-<p align="center"><br>
-  <a href="https://github.com/SeenKid">
-    <img src="https://lanyard-profile-readme.vercel.app/api/692521133345472595"/>
-     </a>
-</p>
-
 
 ### 🛠 &nbsp;Tools
 
