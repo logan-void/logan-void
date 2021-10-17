@@ -28,7 +28,7 @@
 <a href="https://www.youtube.com/channel/UCkef2tpJ14Lkv2uiNvH4pog"><img src="https://img.shields.io/youtube/channel/subscribers/UCkef2tpJ14Lkv2uiNvH4pog?style=social"/></a>
 <a href="https://twitter.com/seenkidbhop" target="blank"><img src="https://img.shields.io/twitter/follow/Seenkidbhop?style=social" alt="seenkidbhop" /></a>
 </p>
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/692521133345472595)](https://discord.com/users/692521133345472595)
+[Discord Presence](https://lanyard-profile-readme.vercel.app/api/692521133345472595)
 
 ### 🛠 &nbsp;Tools
 
