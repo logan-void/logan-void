@@ -2,14 +2,13 @@
 <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=SeenKid.SeenKid"/>
 <h1 align="center">Hello 👋 I am SeenKid.</h1> 
 
-    🔭 In apprenticeship 
-    🌱 Studying to be : Information Technologist, Federal Diploma of Vocational Education and Training Specialism Application Development
-    👯 Do not ask to work with me. I'm working alone.
-    🤔 I dont need any help for my projects.
-    💬 If you need informations about my project, contact me.
-    📫 How to contact me ? --> discord : SeenKid#0001
-    ⚡ Fun fact: My favorite animal is the bunny (bcz of the bhop (bunny hop) and they're cute)
-    👾 My favorite video games are Seen and Counter-strike (Source & GO)
+    🔭 Développeur Suisse en alternance / apprentissage. 
+    🌱 J'étudie pour être Informaticien avec un Diplôme fédéral d'enseignement et de formation professionnels Spécialité Développement d'applications
+    👯 Si vous désirez collaborer avec moi, vous le pouvez 
+    💬 Si vous avez besoin d'informations sur mes projets, contactez moi via discord !
+    📫 Comment me contacter ? --> discord : SeenKid#0001
+    ⚡ Fun fact: Je suis un Furry :3
+    👾 Je joue beaucoup aux jeux vidéos, retrouvez mon profil steam un peu plus bas :) 
     
 ### ⚙️ &nbsp;GitHub Analytics
 
