@@ -6,7 +6,7 @@
     🌱 J'étudie pour être Informaticien avec un Diplôme fédéral d'enseignement et de formation professionnels Spécialité Développement d'applications
     👯 Si vous désirez collaborer avec moi, vous le pouvez 
     💬 Si vous avez besoin d'informations sur mes projets, contactez moi via discord !
-    📫 Comment me contacter ? --> discord : SeenKid^TweekLG#0001
+    📫 Comment me contacter ? --> discord : nkwcxnn#0001
     ⚡ Fun fact: Discord is a big part of my life
     👾 Je joue beaucoup aux jeux vidéos, retrouvez mon profil steam un peu plus bas :) 
     
