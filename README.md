@@ -1,6 +1,6 @@
 
 <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=SeenKid.SeenKid"/>
-<h1 align="center">Hello 👋 I am SeenKid.</h1> 
+<h1 align="center">hola folks 👋 I am SeenKid.</h1> 
 
     🔭 Développeur Suisse en alternance / apprentissage. 
     🌱 J'étudie pour être Informaticien avec un Diplôme fédéral d'enseignement et de formation professionnels Spécialité Développement d'applications
