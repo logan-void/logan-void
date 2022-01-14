@@ -28,7 +28,6 @@
 <a href="https://twitter.com/seenkidbhop"><img src="https://img.shields.io/twitter/follow/Seenkidbhop?style=social" alt="seenkidbhop" /></a>
 <a href="https://linktr.ee/seenkid"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"/></a>
 <a href="https://discord.gg/YH8Qbjr2sJ"><img src="https://img.shields.io/discord/810526650075709440?color=blue&label=Discord%20Server&logo=Discord%20Server"/></a>
-<iframe src="https://canary.discord.com/widget?id=810526650075709440&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 </p>
 
 
