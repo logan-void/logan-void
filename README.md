@@ -6,7 +6,7 @@
     🌱 J'étudie pour être Informaticien avec un Diplôme fédéral d'enseignement et de formation professionnels Spécialité Développement d'applications
     👯 Si vous désirez collaborer avec moi, vous le pouvez 
     💬 Si vous avez besoin d'informations sur mes projets, contactez moi via discord !
-    📫 Comment me contacter ? --> discord : ac#1010
+    📫 Comment me contacter ? --> discord : ac#1010 || snap --> yann.dev
     ⚡ Fun fact: J'passe ma vie à étudier 
     👾 Je joue beaucoup aux jeux vidéos, retrouvez mon profil steam un peu plus bas :) 
     
@@ -19,7 +19,7 @@
 </a>
 </p>
 
-### 🤝🏻 &nbsp;Find me here :
+### 🤝🏻 &nbsp;Mes réseaux :
 
 <p align="center">
 <a href="https://www.instagram.com/nkwcxnn/"><img src="https://img.shields.io/badge/-@nkwcxnn-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
