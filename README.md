@@ -1,5 +1,5 @@
 
-<img align="right" src="https://visitor-badge.glitch.me/badge?page_id=SeenKid.SeenKid"/>
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSeenKid&label=Visiteurs&labelColor=%23ff2233&countColor=%2337ff7a&style=flat)
 <h1 align="center">hola folks 👋 I am ac.</h1> 
 
     🔭 Développeur Suisse en alternance / apprentissage. 
