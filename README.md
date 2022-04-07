@@ -1,15 +1,16 @@
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSeenKid&label=Visiteurs&labelColor=%23ff2233&countColor=%2334af7a&style=flat)
 <h1 align="center">hola folks 👋 I am ac.</h1> 
-
-    🔭 Développeur Suisse en alternance / apprentissage. 
-    🌱 J'étudie pour être Informaticien avec un Diplôme fédéral d'enseignement et de formation professionnels Spécialité Développement d'applications
-    👯 Si vous désirez collaborer avec moi, vous le pouvez 
-    💬 Si vous avez besoin d'informations sur mes projets, contactez moi via discord !
-    📫 Comment me contacter ? --> discord : discord.gg/spacewatch || snap --> hexsnkd
-    ⚡ Fun fact: J'passe ma vie à étudier 
-    👾 Je joue beaucoup aux jeux vidéos, retrouvez mon profil steam un peu plus bas :) 
+<ul>
+<li> 🔭 Développeur Suisse en alternance / apprentissage. </li>
+<li>🌱 J'étudie pour être Informaticien avec un Diplôme fédéral d'enseignement et de formation professionnels Spécialité Développement d'applications </li>
+<li>👯 Si vous désirez collaborer avec moi, vous le pouvez </li>
+<li>💬 Si vous avez besoin d'informations sur mes projets, contactez moi via discord ! </li> 
+<li>📫 Comment me contacter ? --> discord : discord.gg/spacewatch || snap --> hexsnkd </li>
+<li>⚡ Fun fact: J'passe ma vie à étudier </li>
+<li>👾 Je joue beaucoup aux jeux vidéos, retrouvez mon profil steam un peu plus bas :) </li>
     
+</ul>
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
