@@ -1,6 +1,6 @@
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSeenKid&label=Visiteurs&labelColor=%23ff2233&countColor=%2334af7a&style=flat)
-<h1 align="center">hola folks 👋 I am ac.</h1> 
+<h1 align="center">hola folks 👋 I am SeenKid.</h1> 
 <ul>
 <li> 🔭 Développeur Suisse en alternance / apprentissage. </li>
 <li>🌱 J'étudie pour être Informaticien avec un Diplôme fédéral d'enseignement et de formation professionnels Spécialité Développement d'applications </li>
