@@ -1,5 +1,3 @@
-
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSeenKid&label=Visiteurs&labelColor=%23ff2233&countColor=%2334af7a&style=flat)
 <h1 align="center">hola folks 👋 I am SeenKid.</h1> 
 <ul>
 <li> 🔭 Développeur Suisse en alternance / apprentissage. </li>
@@ -53,3 +51,7 @@
 ![C#](https://img.shields.io/badge/-csharp-05122A?style=flat&logo=csharp)&nbsp;
 
 <h2 align="center">join my discord server --> <a href="https://discord.gg/spacewatch">SpaceWatch</a></h2>
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSeenKid&label=Visiteurs&labelColor=%23ff2233&countColor=%2334af7a&style=flat)
+[![Years Badge](https://badges.pufler.dev/years/SeenKid)](https://badges.pufler.dev)
+
