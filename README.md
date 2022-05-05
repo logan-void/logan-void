@@ -55,4 +55,4 @@
 [![Years Badge](https://badges.pufler.dev/years/SeenKid)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/SeenKid)](https://badges.pufler.dev)
 [![Gists Badge](https://badges.pufler.dev/gists/SeenKid)](https://badges.pufler.dev)
-[![Created Badge](https://badges.pufler.dev/created/SeenKid/git-badges)](https://badges.pufler.dev)
+[![Created Badge](https://badges.pufler.dev/created/SeenKid/SeenKid)](https://badges.pufler.dev)
