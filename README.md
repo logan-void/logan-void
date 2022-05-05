@@ -56,3 +56,5 @@
 [![Repos Badge](https://badges.pufler.dev/repos/SeenKid)](https://badges.pufler.dev)
 [![Gists Badge](https://badges.pufler.dev/gists/SeenKid)](https://badges.pufler.dev)
 [![Created Badge](https://badges.pufler.dev/created/SeenKid/SeenKid)](https://badges.pufler.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/SeenKid/SeenKid)](https://badges.pufler.dev)
+
