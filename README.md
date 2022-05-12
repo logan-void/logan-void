@@ -1,7 +1,7 @@
 <h1 align="center">hola folks 👋 I am SeenKid.</h1> 
 <ul>
 <li> 🔭 Développeur Suisse en alternance / apprentissage. </li>
-<li>🌱 J'étudie pour être Informaticien avec un Diplôme fédéral d'enseignement et de formation professionnelle, spécialisé en Développement d'applications </li>
+<li>🌱 J'étudie pour être informaticien développeur. </li>
 <li>👯 Si vous désirez collaborer avec moi, vous le pouvez </li>
 <li>💬 Si vous avez besoin d'informations sur mes projets, contactez moi via discord ! </li> 
 <li>📫 Comment me contacter ? --> discord : discord.gg/spacewatch || snap --> hexsnkd </li>
