@@ -4,9 +4,9 @@
 <li>🌱 J'étudie pour être informaticien développeur. </li>
 <li>👯 Si vous désirez collaborer avec moi, vous le pouvez </li>
 <li>💬 Si vous avez besoin d'informations sur mes projets, contactez moi via discord ! </li> 
-<li>📫 Comment me contacter ? --> discord : discord.gg/spacewatch || snap --> hexsnkd </li>
+<li>📫 Comment me contacter ? --> Mon Linktr.ee plus bas</li>
 <li>⚡ Fun fact: J'aime étudier, mais vraiment 📚 </li>
-<li>👾 Je joue beaucoup aux jeux vidéos, retrouvez mon profil steam un peu plus bas :) </li>
+<li>👾 Je joue beaucoup aux jeux vidéos </li>
 </ul>
 
 
