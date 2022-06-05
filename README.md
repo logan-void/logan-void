@@ -58,7 +58,14 @@ public class me{
 > 🏆 More than 90 projects
  > 
 > 📜 1.8k+ Commits on GitHub
- > 
+
+
+<p align="center">
+<a href="https://github.com/SeenKid">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SeenKid&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SeenKid&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 #### Contribution Graph
 [![Aryan Tripathi's github activity graph](https://activity-graph.herokuapp.com/graph?username=SeenKid&theme=react-dark)](https://activity-graph.herokuapp.com/graph?username=SeenKid&theme=react-dark)
