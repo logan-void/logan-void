@@ -86,3 +86,24 @@ public class me{
 <a href="https://linktr.ee/seenkid"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"/></a>
 <a href="https://discord.gg/YH8Qbjr2sJ"><img src="https://img.shields.io/discord/810526650075709440?color=blue&label=Discord%20Server&logo=Discord%20Server"/></a>
 
+
+### 🛠 &nbsp;Tools
+
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![C#](https://img.shields.io/badge/-csharp-05122A?style=flat&logo=csharp)&nbsp;
+
+<h2 align="center">join my discord server --> <a href="https://discord.gg/spacewatch">SpaceWatch</a></h2>
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSeenKid&label=Visiteurs&labelColor=%23ff2233&countColor=%2334af7a&style=flat) &nbsp;&nbsp;&nbsp;
+[![Years Badge](https://badges.pufler.dev/years/SeenKid)](https://badges.pufler.dev)&nbsp;&nbsp;&nbsp;
+[![Repos Badge](https://badges.pufler.dev/repos/SeenKid)](https://badges.pufler.dev)&nbsp;&nbsp;&nbsp;
+[![Gists Badge](https://badges.pufler.dev/gists/SeenKid)](https://badges.pufler.dev)&nbsp;&nbsp;&nbsp;
+[![Created Badge](https://badges.pufler.dev/created/SeenKid/SeenKid)](https://badges.pufler.dev)
