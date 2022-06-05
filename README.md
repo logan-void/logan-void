@@ -4,16 +4,15 @@
 <p align="center">
   <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;" /></a>
 </p>
-<p>I'm a 18yo developper.</p>
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 <ul>
-<li> 🔭 Développeur Suisse en alternance / apprentissage. </li>
-<li>🌱 J'étudie pour être informaticien développeur. </li>
-<li>👯 Si vous désirez collaborer avec moi, vous le pouvez </li>
-<li>💬 Si vous avez besoin d'informations sur mes projets, contactez moi via discord ! </li> 
+<li> 🔭 Développeur Suisse en alternance / apprentissage</li>
+<li>🌱 J'étudie pour être informaticien développeur</li>
+<li>👯 Si vous désirez collaborer avec moi, vous le pouvez</li>
+<li>💬 Si vous avez besoin d'informations sur mes projets, contactez moi</li> 
 <li>📫 Comment me contacter ? --> Mon Linktr.ee plus bas</li>
-<li>⚡ Fun fact: J'aime étudier, mais vraiment 📚 </li>
-<li>👾 Je joue beaucoup aux jeux vidéos </li>
+<li>⚡ Fun fact: J'aime étudier, mais vraiment 📚</li>
+<li>👾 Je joue beaucoup aux jeux vidéos</li>
 </ul>
 
 #### A little more about me
