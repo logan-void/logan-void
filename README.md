@@ -7,9 +7,13 @@
 <p>I'm a 18yo developper.</p>
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 <ul>
-  <li>👋 Hi, I’m SeenKid</li>
-  <li>❤️ I love coding random projects.</li>
-  <li>💼 I'm a student.</li>
+<li> 🔭 Développeur Suisse en alternance / apprentissage. </li>
+<li>🌱 J'étudie pour être informaticien développeur. </li>
+<li>👯 Si vous désirez collaborer avec moi, vous le pouvez </li>
+<li>💬 Si vous avez besoin d'informations sur mes projets, contactez moi via discord ! </li> 
+<li>📫 Comment me contacter ? --> Mon Linktr.ee plus bas</li>
+<li>⚡ Fun fact: J'aime étudier, mais vraiment 📚 </li>
+<li>👾 Je joue beaucoup aux jeux vidéos </li>
 </ul>
 
 #### A little more about me
