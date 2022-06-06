@@ -34,7 +34,7 @@ public class me{
 
 #### I Spent My Time On
 ```text
-💬 Programming Lanuages:
+💬 Programming languages:
 - Python
 - C#
 - HTML / CSS
