@@ -8,10 +8,10 @@
 <ul>
 <li> 🔭 Développeur Suisse en alternance / apprentissage</li>
 <li>🌱 J'étudie pour être informaticien développeur</li>
-<li>👯 Si vous désirez collaborer avec moi, vous le pouvez</li>
+<li>👯 Si vous désirez collaborer sur un projet, j'accepterai avec plaisir</li>
 <li>💬 Si vous avez besoin d'informations sur mes projets, contactez moi</li> 
 <li>📫 Comment me contacter ? --> Mon Linktr.ee plus bas</li>
-<li>⚡ Fun fact: J'aime étudier, mais vraiment 📚</li>
+<li>⚡ Fun fact: Je fais des Streams sur Twitch :)</li>
 <li>👾 Je joue beaucoup aux jeux vidéos</li>
 </ul>
 
@@ -40,13 +40,16 @@ public class me{
 - HTML / CSS
 - JS
 - PHP 
+- Lua
+- Java
 
 🔥 Editors:
-- VS Code Insiders
+- VS Code 
 - Visual Studio
 - PyCharm
 - PhpStorm
 - IntelliJ IDEA
+- GoLand
 
 💻 Operating System:
 - Windows
