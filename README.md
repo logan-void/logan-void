@@ -32,7 +32,7 @@ public class me{
 🌙 Night           ██████████████░░░░░░░░░░░   35.0% 
 ```
 
-#### I Spent My Time On
+#### I Spend My Time On
 ```text
 💬 Programming languages:
 - Python
