@@ -2,10 +2,9 @@
 using System;
 
 namespace HelloWorld {
-	class Mrbluebird {
+	class SeenKid {
 		static void Main(string[] args) {
 			Console.WriteLine("Hello World!");
-			Console.ReadKey();
 		}
 	}
 }
