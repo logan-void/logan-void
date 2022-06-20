@@ -105,7 +105,7 @@ public class me{
 
 <h2 align="center">join my discord server --> <a href="https://discord.gg/spacewatch">SpaceWatch</a></h2>
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSeenKid&label=Visiteurs&labelColor=%23ff2233&countColor=%2334af7a&style=flat) &nbsp;&nbsp;&nbsp;
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSeenKid&label=Views&labelColor=%23ff2233&countColor=%2334af7a&style=flat) &nbsp;&nbsp;&nbsp;
 [![Years Badge](https://badges.pufler.dev/years/SeenKid)](https://badges.pufler.dev)&nbsp;&nbsp;&nbsp;
 [![Repos Badge](https://badges.pufler.dev/repos/SeenKid)](https://badges.pufler.dev)&nbsp;&nbsp;&nbsp;
 [![Gists Badge](https://badges.pufler.dev/gists/SeenKid)](https://badges.pufler.dev)&nbsp;&nbsp;&nbsp;
