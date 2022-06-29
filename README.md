@@ -19,7 +19,7 @@
 ```golang
 public class me{
     string username = "SeenKid";
-    string discordID = "692521133345472595";
+    string discordID = "374219606673457153";
     int age = 18;
 }
 ```
