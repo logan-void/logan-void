@@ -6,13 +6,11 @@
 </p>
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 <ul>
-<li> 🔭 Développeur Suisse en alternance / apprentissage</li>
-<li>🌱 J'étudie pour être informaticien développeur</li>
-<li>👯 Si vous désirez collaborer sur un projet, j'accepterai avec plaisir</li>
-<li>💬 Si vous avez besoin d'informations sur mes projets, contactez moi</li> 
-<li>📫 Comment me contacter ? --> Mon Linktr.ee plus bas</li>
+<li>🔭 Développeur Suisse en alternance / apprentissage</li>
+<li>🌱 Music pref : We stayed up all night - Tourist</li>
+<li>👯 Si vous désirez collaborer sur un projet, faites un fork</li>
 <li>⚡ Fun fact: Je fais des Streams sur Twitch :)</li>
-<li>👾 Je joue beaucoup aux jeux vidéos</li>
+<li>👾 pro gamer (ou pas)...</li>
 </ul>
 
 #### A little more about me
