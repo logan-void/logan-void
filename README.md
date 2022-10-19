@@ -100,8 +100,4 @@ public class me{
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![C#](https://img.shields.io/badge/-csharp-05122A?style=flat&logo=csharp)&nbsp;
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSeenKid&label=Views&labelColor=%23ff2233&countColor=%2334af7a&style=flat) &nbsp;&nbsp;&nbsp;
-[![Years Badge](https://badges.pufler.dev/years/SeenKid)](https://badges.pufler.dev)&nbsp;&nbsp;&nbsp;
-[![Repos Badge](https://badges.pufler.dev/repos/SeenKid)](https://badges.pufler.dev)&nbsp;&nbsp;&nbsp;
-[![Gists Badge](https://badges.pufler.dev/gists/SeenKid)](https://badges.pufler.dev)&nbsp;&nbsp;&nbsp;
-[![Created Badge](https://badges.pufler.dev/created/SeenKid/SeenKid)](https://badges.pufler.dev)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSeenKid&label=Views&labelColor=%23ff2233&countColor=%2334af7a&style=flat)
