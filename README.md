@@ -1,22 +1,22 @@
 <p align="center">
-  <h1 align="center">Welcome to <a href="https://github.com/SeenKid">SeenKid</a>'s Profile 👋</h1>
+  <h1 align="center">Hello folks ! Welcome to my profile 👋</h1>
 </p>
 <p align="center">
   <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;" /></a>
 </p>
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 <ul>
-<li>🔭 Développeur Suisse en alternance / apprentissage</li>
-<li>🌱 Music pref : We stayed up all night - Tourist</li>
-<li>👯 Si vous désirez collaborer sur un projet, faites un fork</li>
-<li>⚡ Fun fact: Je fais des Streams sur Twitch :)</li>
-<li>👾 pro gamer (ou pas)...</li>
+<li>🔭 Swiss developer in work-study / apprenticeship</li>
+<li>🌱 Favorite music : Birdy - Shelter (Owsey Remix)</li>
+<li>👯 If you want to collaborate on a project, fork</li>
+<li>⚡ Fun fact: I'm the owner of Australis Networks !</li>
+<li>👾 pro gamer (or not...)</li>
 </ul>
 
 #### A little more about me
 ```golang
 public class me{
-    string username = "SeenKid";
+    string username = "sorrow, seenkid, skxx, nog2sky";
     int age = 18;
 }
 ```
@@ -33,12 +33,13 @@ public class me{
 ```text
 💬 Programming languages:
 - Python
-- C#
+- CSharp
 - HTML / CSS
-- JS
+- JavaScript
 - PHP 
 - Lua
 - Java
+- Pawn
 
 🔥 Editors:
 - VS Code 
@@ -82,8 +83,9 @@ public class me{
 <a href="https://www.instagram.com/nkwcxnn/"><img src="https://img.shields.io/badge/-@nkwcxnn-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://twitch.tv/nog2sky"><img src="https://img.shields.io/twitch/status/nog2sky?style=social"/></a>
 <a href="https://www.youtube.com/channel/UCkef2tpJ14Lkv2uiNvH4pog"><img src="https://img.shields.io/youtube/channel/subscribers/UCkef2tpJ14Lkv2uiNvH4pog?style=social"/></a>
+<a href="https://www.youtube.com/channel/UC9HQjz-bEK-fQFCEbM4vBD"><img src="https://img.shields.io/youtube/channel/subscribers/UC9HQjz-bEK-fQFCEbM4vBD?style=social"/></a>
 <a href="https://twitter.com/sorrowbhop"><img src="https://img.shields.io/twitter/follow/sorrowbhop?style=social" alt="sorrowbhop" /></a>
-<a href="https://solo.to/skxx">My links</a>
+<a href="https://solo.to/skxx">My other links</a>
 
 
 ### 🛠 &nbsp;Tools
