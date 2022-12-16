@@ -7,7 +7,7 @@
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 <ul>
 <li>🔭 Swiss developer in work-study / apprenticeship</li>
-<li>🌱 Favorite music : Birdy - Shelter (Owsey Remix)</li>
+<li>🌱 Favorite music : Sorrow - My love</li>
 <li>👯 If you want to collaborate on a project, fork</li>
 <li>⚡ Fun fact: I'm the owner of Australis Networks !</li>
 <li>👾 pro gamer (or not...)</li>
