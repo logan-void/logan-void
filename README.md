@@ -43,11 +43,13 @@ public class me{
 
 🔥 Editors:
 - VS Code 
+- Rider
 - Visual Studio
 - PyCharm
 - PhpStorm
 - IntelliJ IDEA
 - GoLand
+- Fleet
 
 💻 Operating System:
 - Windows
