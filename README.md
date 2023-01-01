@@ -70,9 +70,6 @@ public class me{
 </a>
 </p>
 
-#### Contribution Graph
-[![Aryan Tripathi's github activity graph](https://activity-graph.herokuapp.com/graph?username=SeenKid&theme=react-dark)](https://activity-graph.herokuapp.com/graph?username=SeenKid&theme=react-dark)
-
 <br />
 <p align="center">
   <img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=SeenKid&theme=onedarkr" alt="SeenKid" />
