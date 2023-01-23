@@ -37,9 +37,9 @@ public class me{
 - HTML / CSS
 - JavaScript
 - PHP 
-- Lua
+- (G)Lua 
 - Java
-- Pawn
+- SourcePawn
 
 🔥 Editors:
 - VS Code 
