@@ -80,11 +80,10 @@ public class me{
 
 <p align="center">
 <a href="https://www.instagram.com/nkwcxnn/"><img src="https://img.shields.io/badge/-@nkwcxnn-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://twitch.tv/nog2sky"><img src="https://img.shields.io/twitch/status/nog2sky?style=social"/></a>
+<a href="https://twitch.tv/sorrowseenkid"><img src="https://img.shields.io/twitch/status/sorrowseenkid?style=social"/></a>
 <a href="https://www.youtube.com/channel/UCkef2tpJ14Lkv2uiNvH4pog"><img src="https://img.shields.io/youtube/channel/subscribers/UCkef2tpJ14Lkv2uiNvH4pog?style=social"/></a>
-<a href="https://www.youtube.com/channel/UC9HQjz-bEK-fQFCEbM4vBD"><img src="https://img.shields.io/youtube/channel/subscribers/UC9HQjz-bEK-fQFCEbM4vBD?style=social"/></a>
 <a href="https://twitter.com/sorrowbhop"><img src="https://img.shields.io/twitter/follow/sorrowbhop?style=social" alt="sorrowbhop" /></a>
-<a href="https://solo.to/seenkid">My other links</a>
+<a href="https://solo.to/seenkid">My other links...</a>
 
 
 ### 🛠 &nbsp;Tools
@@ -100,4 +99,4 @@ public class me{
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![C#](https://img.shields.io/badge/-csharp-05122A?style=flat&logo=csharp)&nbsp;
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSeenKid&label=Views&labelColor=%23ff2233&countColor=%2334af7a&style=flat)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSeenKid&label=Views&labelColor=%23ff2233&countColor=%2334af7a)
