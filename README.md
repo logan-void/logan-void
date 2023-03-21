@@ -10,7 +10,7 @@
 <li>🌱 Favorite music : Sorrow - My love</li>
 <li>👯 If you want to collaborate on a project, fork</li>
 <li>⚡ Fun fact: I'm in love with Léa 💖 !</li>
-<li>👾 pro gamer (I upload ressources on gamebanana ![here](https://gamebanana.com/members/1981210) !)</li>
+<li>👾 pro gamer (I upload ressources on gamebanana : https://gamebanana.com/members/1981210)</li>
 </ul>
 
 #### A little more about me
