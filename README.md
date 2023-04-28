@@ -51,6 +51,8 @@ public class me{
 - IntelliJ IDEA
 - GoLand
 - Fleet
+- Vim / NVim
+- Sublime Text
 
 💻 Operating System:
 - Windows
