@@ -88,6 +88,7 @@ public class me{
 <a href="https://twitter.com/sorrowbhop"><img src="https://img.shields.io/twitter/follow/sorrowbhop?style=social" alt="sorrowbhop" /></a>
 <a href="https://solo.to/seenkid">My other links...</a>
 
+  <img src="https://discord.c99.nl/widget/theme-2/374219606673457153.png"/>
 
 ### 🛠 &nbsp;Tools
 
