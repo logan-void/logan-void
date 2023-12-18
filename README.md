@@ -16,8 +16,8 @@
 #### A little more about me
 ```golang
 public class me{
-    string username = "sorrow, seenkid, nog2sky";
-    int age = 19;
+    string username = "sorrow, seenkid";
+    int age = 20;
     string website = "https://seenkid.fr/"
 }
 ```
