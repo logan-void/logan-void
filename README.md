@@ -43,20 +43,19 @@ public class me{
 - SourcePawn
 
 🔥 Editors:
-- VS Code 
+- VS Code / VSCodium
 - Rider
-- Visual Studio
+- Visual Studio 2022
 - PyCharm
 - PhpStorm
 - IntelliJ IDEA
-- GoLand
 - Fleet
 - Vim / NVim
-- Sublime Text
 
 💻 Operating System:
-- Windows
+- Windows 10
 - Linux (Ubuntu & Kali)
+- Mac OS Sonoma 14.0
 ```
 
 
@@ -76,9 +75,7 @@ public class me{
 <a href="https://twitch.tv/sorrowseenkid"><img src="https://img.shields.io/twitch/status/sorrowseenkid?style=social"/></a>
 <a href="https://www.youtube.com/channel/UCkef2tpJ14Lkv2uiNvH4pog"><img src="https://img.shields.io/youtube/channel/subscribers/UCkef2tpJ14Lkv2uiNvH4pog?style=social"/></a>
 <a href="https://twitter.com/sorrowbhop"><img src="https://img.shields.io/twitter/follow/sorrowbhop?style=social" alt="sorrowbhop" /></a>
-<a href="https://solo.to/seenkid">My other links...</a>
-
-  <img src="https://discord.c99.nl/widget/theme-2/374219606673457153.png"/>
+<a href="https://solo.to/seenkid">More links...</a>
 
 ### 🛠 &nbsp;Tools
 
