@@ -16,9 +16,10 @@
 #### A little more about me
 ```golang
 public class me{
-    string username = "sorrow, seenkid";
+    string username = "Sorrow/Seenkid";
     int age = 20;
-    string website = "https://seenkid.fr/"
+    string country = "Switzerland";
+    string website = "Soon";
 }
 ```
 
@@ -37,10 +38,10 @@ public class me{
 - CSharp
 - HTML / CSS
 - JavaScript
-- PHP 
-- (G)Lua 
-- Java
-- SourcePawn
+- PHP (rarely)
+- (G)Lua (not anymore)
+- Java (rarely)
+- SourcePawn (not anymore)
 
 🔥 Editors:
 - VS Code / VSCodium
