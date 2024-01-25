@@ -72,11 +72,7 @@ public class me{
 ### 🤝🏻 &nbsp;My Social networks :
 
 <p align="center">
-<a href="https://www.instagram.com/nkwcxnn/"><img src="https://img.shields.io/badge/-@nkwcxnn-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://twitch.tv/sorrowseenkid"><img src="https://img.shields.io/twitch/status/sorrowseenkid?style=social"/></a>
-<a href="https://www.youtube.com/channel/UCkef2tpJ14Lkv2uiNvH4pog"><img src="https://img.shields.io/youtube/channel/subscribers/UCkef2tpJ14Lkv2uiNvH4pog?style=social"/></a>
-<a href="https://twitter.com/sorrowbhop"><img src="https://img.shields.io/twitter/follow/sorrowbhop?style=social" alt="sorrowbhop" /></a>
-<a href="https://solo.to/seenkid">More links...</a>
+<a href="https://solo.to/seenkid">All my links</a>
 
 ### 🛠 &nbsp;Tools
 
