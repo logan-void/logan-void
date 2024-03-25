@@ -54,9 +54,9 @@ public class me{
 - Vim / NVim
 
 💻 Operating System:
-- Windows 10
+- Windows 11
 - Linux (Ubuntu & Kali)
-- Mac OS Sonoma 14.0
+- Mac OS Sonoma 14.3.1
 ```
 
 
