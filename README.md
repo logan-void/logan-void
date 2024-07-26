@@ -9,16 +9,16 @@
 <li>🔭 Swiss developer in work-study / apprenticeship</li>
 <li>🌱 Favorite music : Sorrow - My love</li>
 <li>👯 If you want to collaborate on a project, fork</li>
-<li>👾 pro gamer (I upload ressources on gamebanana : https://gamebanana.com/members/1981210)</li>
+<li>👾 Director of AHGROUP SAS - Australis-Hosting.Com</li>
 </ul>
 
 #### A little more about me
 ```golang
 public class me{
-    string username = "Sorrow/Seenkid";
+    string username = "Seenkid";
     int age = 20;
     string country = "Switzerland";
-    string website = "Soon";
+    string website = "https://seenkid.dev/";
 }
 ```
 
@@ -53,9 +53,9 @@ public class me{
 - Vim / NVim
 
 💻 Operating System:
-- Windows 11
-- Linux (Ubuntu & Kali)
-- Mac OS Sonoma 14.3.1
+- Windows 11 (I miss Windows 7 ngl)
+- Linux (Ubuntu, Kalix, Manjaro) but mainly Arch nowadays
+- Mac OS Sonoma
 ```
 
 
