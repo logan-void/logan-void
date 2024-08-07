@@ -10,6 +10,7 @@
 <li>🌱 Favorite music : Sorrow - My love</li>
 <li>👯 If you want to collaborate on a project, fork</li>
 <li>👾 Director of AHGROUP SAS - Australis-Hosting.Com</li>
+  <li> Join <a href="https://discord.gg/G2PnmvX7yy">Australis-Hosting's Discord</a></li>
 </ul>
 
 #### A little more about me
