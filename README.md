@@ -9,7 +9,7 @@
 <li>🔭 Swiss developer in work-study / apprenticeship</li>
 <li>🌱 Favorite music : Sorrow - My love</li>
 <li>👯 If you want to collaborate on a project, fork</li>
-<li>👾 Director of AHGROUP SAS - Australis-Hosting.Com</li>
+<li>👾 Director of AustralisGroup | hub.australis-group.fr</li>
   <li> Join <a href="https://discord.gg/G2PnmvX7yy">Australis-Hosting's Discord</a></li>
 </ul>
 
