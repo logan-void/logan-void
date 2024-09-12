@@ -55,7 +55,7 @@ public class me{
 
 💻 Operating System:
 - Windows 11 (I miss Windows 7 ngl)
-- Linux (Ubuntu, Kalix, Manjaro) but mainly Arch nowadays
+- Linux (Ubuntu, Kalix, Manjaro, Debian) but mainly Arch nowadays
 - Mac OS Sonoma
 ```
 
