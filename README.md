@@ -9,8 +9,8 @@
 <li>🔭 Swiss developer in work-study / apprenticeship</li>
 <li>🌱 Favorite music : Sorrow - My love</li>
 <li>👯 If you want to collaborate on a project, fork</li>
-<li>👾 Director of AustralisGroup | hub.australis-group.fr</li>
-  <li> Join <a href="https://discord.gg/G2PnmvX7yy">Australis-Hosting's Discord</a></li>
+<li>👾 Director of CroustyCloud | CroustyCloud.fr </li>
+  <li> Join <a href="https://discord.gg/mn347wSJad">CroustyCloud's Discord</a></li>
 </ul>
 
 #### A little more about me
