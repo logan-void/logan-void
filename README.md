@@ -10,7 +10,8 @@
 <li>🌱 Favorite music : Sorrow - My love</li>
 <li>👯 If you want to collaborate on a project, fork</li>
 <li>👾 Director of CroustyCloud | CroustyCloud.fr </li>
-  <li> Join <a href="https://discord.gg/mn347wSJad">CroustyCloud's Discord</a></li>
+<li> Join <a href="https://discord.gg/mn347wSJad">CroustyCloud's Discord</a></li>
+<li>Buy the Logitech MX Master 3S ! </li>
 </ul>
 
 #### A little more about me
@@ -34,17 +35,17 @@ public class me{
 #### I Spend My Time On
 ```text
 💬 Programming languages:
-- Python
 - CSharp
-- HTML / CSS
 - JavaScript
+- Python (rarely)
+- HTML / CSS (shit)
 - PHP (rarely)
 - (G)Lua (not anymore)
-- Java (rarely)
+- Java (not anymore)
 - SourcePawn (not anymore)
 
 🔥 Editors:
-- VS Code / VSCodium
+- VS Code / VSCodium / Cursor
 - Rider
 - Visual Studio 2022
 - PyCharm
@@ -55,7 +56,7 @@ public class me{
 
 💻 Operating System:
 - Windows 11 (I miss Windows 7 ngl)
-- Linux (Ubuntu, Kalix, Manjaro, Debian) but mainly Arch nowadays
+- Linux (Ubuntu, Manjaro, Debian) but mainly Arch Linux nowadays
 - Mac OS Sonoma
 ```
 
