@@ -18,7 +18,7 @@
 ```golang
 public class me{
     string username = "Seenkid";
-    int age = 20;
+    int age = 21;
     string country = "Switzerland";
     string website = "https://seenkid.dev/";
 }
