@@ -40,24 +40,17 @@ public class me{
 - Python (rarely)
 - HTML / CSS (shit)
 - PHP (rarely)
-- (G)Lua (not anymore)
-- Java (not anymore)
-- SourcePawn (not anymore)
 
 🔥 Editors:
 - VS Code / VSCodium / Cursor
 - Rider
 - Visual Studio 2022
-- PyCharm
-- PhpStorm
-- IntelliJ IDEA
-- Fleet
 - Vim / NVim
 
 💻 Operating System:
 - Windows 11 (I miss Windows 7 ngl)
 - Linux (Ubuntu, Manjaro, Debian) but mainly Arch Linux nowadays
-- Mac OS Sonoma
+- Mac OS Sequoia 
 ```
 
 
@@ -73,7 +66,7 @@ public class me{
 ### 🤝🏻 &nbsp;My Social networks :
 
 <p align="center">
-<a href="https://solo.to/seenkid">All my links</a>
+<a href="https://guns.lol/seenkid">All my links</a>
 
 ### 🛠 &nbsp;Tools
 
