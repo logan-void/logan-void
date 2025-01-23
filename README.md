@@ -55,12 +55,7 @@ public class me{
 
 
 #### My GitHub Data :octocat:
-![Metrics](https://metrics.lecoq.io/SeenKid?template=classic&lines=1&isocalendar=1&habits=1&people=1&sponsors=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&people=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&sponsors=false&sponsors.sections=goal%2C%20list%2C%20about&sponsors.past=false&sponsors.size=24&sponsors.title=Sponsor%20Me!&config.timezone=Europe%2FParis)
-
-<br />
-<p align="center">
-  <img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=SeenKid&theme=onedarkr" alt="SeenKid" />
-</p>
+![SeenKid's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeenKid&show_icons=true&theme=radical)
 
 
 ### 🤝🏻 &nbsp;My Social networks :
