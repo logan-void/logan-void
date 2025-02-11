@@ -10,7 +10,6 @@
 <li>🌱 Favorite music : Sorrow - My love</li>
 <li>👯 If you want to collaborate on a project, fork</li>
 <li>👾 Director of CroustyCloud | CroustyCloud.fr </li>
-<li> Join <a href="https://discord.gg/mn347wSJad">CroustyCloud's Discord</a></li>
 <li>Buy the Logitech MX Master 3S ! </li>
 </ul>
 
