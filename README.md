@@ -55,7 +55,7 @@ public class me{
 
 #### My GitHub Data :octocat:
 ![SeenKid's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeenKid&show_icons=true&theme=radical)
-
+[![GitHub Streak](https://github-readme-streak-stats-tawny-mu.vercel.app?user=SeenKid&theme=telegram-gradient&hide_border=true&locale=fr&date_format=j%20M%5B%20Y%5D&fire=EB5454&background=45%2CEBB65B%2C9E54EB&hide_total_contributions=true)](https://git.io/streak-stats)
 
 ### 🤝🏻 &nbsp;My Social networks :
 
