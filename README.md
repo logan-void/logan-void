@@ -19,7 +19,7 @@ public class me{
     string username = "logan-void";
     int age = 21;
     string country = "Singapore";
-    string website = "hhttps://logan-void.github.io/About-Me-intro/";
+    string website = "https://logan-void.github.io/About-Me-intro/";
 }
 ```
 
