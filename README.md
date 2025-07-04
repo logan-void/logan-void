@@ -13,15 +13,12 @@
 <li>Buy the Logitech MX Master 3S ! </li>
 </ul>
 
-#### I Spend My Time On
 ```text
 💬 Programming languages:
 - HTML / CSS / SCSS(shit)
-- React, Next.js, Nuxt.js, Nest.js, vue.js
-- JavaScript, typescript
-- Python (rarely)
-- Node.js
-- PHP (rarely)
+- React, Next.js, Nuxt.js, Nest.js, vue.js, Node.js
+- JavaScript, typescript, PHP
+- Python (popular)
 - CSharp
 - Unity
 
