@@ -1,87 +1,72 @@
 <p align="center">
-  <h1 align="center">Hello folks ! Welcome to my profile 👋</h1>
+  <img src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" width="120" alt="Profile" style="border-radius:50%"/>
 </p>
+
+<h1 align="center">Hi there, I'm <span style="color:#F72EE2">Logan</span>! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
 <p align="center">
-  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;" /></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=F72EE2&center=true&vCenter=true&width=600&lines=Creative+Developer+from+Singapore;Open+to+Collaboration;Let%27s+Build+Something+Great!"/>
+  </a>
 </p>
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
-<ul>
-<li>🔭 Singapore developer in work-study / apprenticeship</li>
-<li>🌱 Favorite music : Sorrow - My love</li>
-<li>👯 If you want to collaborate on a project, fork</li>
-<li>👾 Director of CroustyCloud | CroustyCloud.fr </li>
-<li>Buy the Logitech MX Master 3S ! </li>
-</ul>
 
-#### A little more about me
-```golang
-public class me{
-    string username = "logan-void";
-    int age = 21;
-    string country = "Singapore";
-    string website = "https://logan-void.github.io/About-Me-intro/";
-}
-```
+---
 
-#### When do I code ? 🐤
-```text
-🌞 Morning         ██████████                  20.0% 
-🌆 Daytime         ████████                    10.0% 
-🌃 Evening         ██████████████              35.0%  
-🌙 Night           ██████████████              35.0% 
-```
+<p align="center">
+  <b>🌏 Turkey | 👨‍💻 Developer | 👾 Director at <a href="https://croustycloud.fr">CroustyCloud</a></b>
+</p>
 
-#### I Spend My Time On
-```text
-💬 Programming languages:
-- HTML / CSS / SCSS(shit)
-- React, Next.js, Nuxt.js, Nest.js, vue.js
-- JavaScript, typescript
-- Python (rarely)
-- Node.js
-- PHP (rarely)
-- CSharp
-- Unity
+---
 
-🔥 Editors:
-- VS Code / VSCodium / Cursor
-- Rider
-- Visual Studio 2022
-- Vim / NVim
+## 🚀 About Me
 
-💻 Operating System:
-- Windows 11 (I miss Windows 7 ngl)
-- Linux (Ubuntu, Manjaro, Debian) but mainly Arch Linux nowadays
-- Mac OS Sequoia 
-```
+- 💼 Work-study / apprenticeship program
+- 🤝 Open to collaboration on interesting projects
+- 🌐 Portfolio: [logan-void.github.io/About-Me-intro/](https://logan-void.github.io/About-Me-intro/)
 
+---
 
-#### My GitHub Data :octocat:
-<!-- ![SeenKid's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeenKid&show_icons=true&theme=radical) -->
-<!-- [![GitHub Streak](https://github-readme-streak-stats-tawny-mu.vercel.app?user=SeenKid&theme=telegram-gradient&hide_border=true&locale=fr&date_format=j%20M%5B%20Y%5D&fire=EB5454&background=45%2CEBB65B%2C9E54EB&hide_total_contributions=true)](https://git.io/streak-stats) -->
-<!-- [![wakatime](https://wakatime.com/badge/user/c6c24fbd-57bf-4ef9-8290-c325419c208a.svg)](https://wakatime.com/@c6c24fbd-57bf-4ef9-8290-c325419c208a) -->
+## 🛠️ Skills & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
+  <img src="https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
+</p>
 
-<!-- ### 🤝🏻 &nbsp;My Social networks : -->
+---
 
-<!-- <p align="center"> -->
-<!-- <a href="https://logan-void.github.io/About-Me-intro/">Portfolio Link</a> -->
+## 💻 How I Work
 
-### 🛠 &nbsp;Tools
+- ⏰ Most productive: <b>Evenings & Nights</b>
+- 🧑‍💻 Editors: VS Code, Rider, Visual Studio, Vim
+- 🖥️ OS: Windows, Linux (mainly Arch), macOS
+- 🧹 I value clean code, collaboration, and continuous learning
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=Typescript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=React)&nbsp;
-![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=Vue.js)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![SCSS](https://img.shields.io/badge/-SCSS-05122A?style=flat&logo=SCSS3&logoColor=1572B6)&nbsp;
-![C#](https://img.shields.io/badge/-csharp-05122A?style=flat&logo=csharp)&nbsp;
-![Unity](https://img.shields.io/badge/-Unity-05122A?style=flat&logo=Unity)&nbsp;
+---
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSeenKid&label=Views&labelColor=%23ff2233&countColor=%2334af7a)
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=logan-void&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=logan-void&theme=radical" height="180"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=logan-void&layout=compact&theme=radical" height="130"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=F72EE2&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+Feel+free+to+connect+with+me."/>
+</p>
