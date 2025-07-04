@@ -13,14 +13,6 @@
 <li>Buy the Logitech MX Master 3S ! </li>
 </ul>
 
-#### When do I code ? 🐤
-```text
-🌞 Morning         ██████████                  20.0% 
-🌆 Daytime         ████████                    10.0% 
-🌃 Evening         ██████████████              35.0%  
-🌙 Night           ██████████████              35.0% 
-```
-
 #### I Spend My Time On
 ```text
 💬 Programming languages:
