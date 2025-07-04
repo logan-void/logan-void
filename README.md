@@ -13,16 +13,6 @@
 <li>Buy the Logitech MX Master 3S ! </li>
 </ul>
 
-#### A little more about me
-```golang
-public class me{
-    string username = "logan-void";
-    int age = 21;
-    string country = "Singapore";
-    string website = "https://logan-void.github.io/About-Me-intro/";
-}
-```
-
 #### When do I code ? 🐤
 ```text
 🌞 Morning         ██████████                  20.0% 
@@ -55,17 +45,6 @@ public class me{
 - Mac OS Sequoia 
 ```
 
-
-#### My GitHub Data :octocat:
-<!-- ![SeenKid's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeenKid&show_icons=true&theme=radical) -->
-<!-- [![GitHub Streak](https://github-readme-streak-stats-tawny-mu.vercel.app?user=SeenKid&theme=telegram-gradient&hide_border=true&locale=fr&date_format=j%20M%5B%20Y%5D&fire=EB5454&background=45%2CEBB65B%2C9E54EB&hide_total_contributions=true)](https://git.io/streak-stats) -->
-<!-- [![wakatime](https://wakatime.com/badge/user/c6c24fbd-57bf-4ef9-8290-c325419c208a.svg)](https://wakatime.com/@c6c24fbd-57bf-4ef9-8290-c325419c208a) -->
-
-<!-- ### 🤝🏻 &nbsp;My Social networks : -->
-
-<!-- <p align="center"> -->
-<!-- <a href="https://logan-void.github.io/About-Me-intro/">Portfolio Link</a> -->
-
 ### 🛠 &nbsp;Tools
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -83,5 +62,3 @@ public class me{
 ![SCSS](https://img.shields.io/badge/-SCSS-05122A?style=flat&logo=SCSS3&logoColor=1572B6)&nbsp;
 ![C#](https://img.shields.io/badge/-csharp-05122A?style=flat&logo=csharp)&nbsp;
 ![Unity](https://img.shields.io/badge/-Unity-05122A?style=flat&logo=Unity)&nbsp;
-
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSeenKid&label=Views&labelColor=%23ff2233&countColor=%2334af7a)
