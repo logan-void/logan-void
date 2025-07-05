@@ -13,10 +13,9 @@
 <li>Buy the Logitech MX Master 3S ! </li>
 </ul>
 
+🛠️ Skills & Tools
 
-## 🛠️ Skills & Tools
-
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
