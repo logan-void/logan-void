@@ -1,12 +1,42 @@
-<p align="center">
-  <h1 align="center">Hello folks ! Welcome to my profile 👋</h1>
+<p align="center" style="position:relative;">
+  <span style="font-size:2.5rem; vertical-align:middle;">
+    <img src="https://em-content.zobj.net/source/microsoft-teams/337/collision_1f4a5.png" width="38" style="vertical-align:middle; animation: cannonLeft 1.2s infinite alternate;" alt="Cannon Left"/>
+  </span>
+  <span style="font-size:2.2rem; font-weight:bold; color:#fff; vertical-align:middle; margin:0 18px;">
+    Hello folks ! Welcome to my profile
+    <span style="vertical-align:middle;">
+      <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="38" style="vertical-align:middle;" alt="Waving Hand"/>
+    </span>
+  </span>
+  <span style="font-size:2.5rem; vertical-align:middle;">
+    <img src="https://em-content.zobj.net/source/microsoft-teams/337/collision_1f4a5.png" width="38" style="vertical-align:middle; animation: cannonRight 1.2s infinite alternate; transform: scaleX(-1);" alt="Cannon Right"/>
+  </span>
 </p>
+
 <p align="center">
-  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;" /></a>
+  <svg width="500" height="18">
+    <defs>
+      <linearGradient id="bluegreen" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#1ecbe1"/>
+        <stop offset="100%" stop-color="#1ee1a1"/>
+      </linearGradient>
+      <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+        <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+        <feMerge>
+          <feMergeNode in="coloredBlur"/>
+          <feMergeNode in="SourceGraphic"/>
+        </feMerge>
+      </filter>
+    </defs>
+    <path d="M10,10 Q150,0 250,10 T490,10" stroke="url(#bluegreen)" stroke-width="4" fill="none" filter="url(#glow)">
+      <animate attributeName="d" values="M10,10 Q150,0 250,10 T490,10;M10,10 Q150,20 250,10 T490,10;M10,10 Q150,0 250,10 T490,10" dur="2s" repeatCount="indefinite"/>
+    </path>
+  </svg>
 </p>
+
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 <ul>
-<li>🔭 Singapore developer in work-study / apprenticeship</li>
+<li>🔭 Turkey developer in work-study / apprenticeship</li>
 <li>🌱 Favorite music : Sorrow - My love</li>
 <li>👯 If you want to collaborate on a project, fork</li>
 <li>👾 Director of CroustyCloud | CroustyCloud.fr </li>
