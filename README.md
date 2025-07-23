@@ -6,7 +6,7 @@
 </p>
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 <ul>
-<li>🔭 Turkey developer in work-study / apprenticeship</li>
+<li>🔭 Ukraine developer in work-study / apprenticeship</li>
 <li>🌱 Favorite music : Sorrow - My love</li>
 <li>👯 If you want to collaborate on a project, fork</li>
 <li>👾 Director of CroustyCloud | CroustyCloud.fr </li>
@@ -17,13 +17,12 @@
 ```text
 💬 Programming languages:
 - HTML / CSS / SCSS(shit)
-- React, Next.js, Nuxt.js, Nest.js, vue.js
-- JavaScript, typescript
-- Python (rarely)
+- React, Next.js, Nuxt.js, Nest.js, vue.js, JavaScript, typescript
+- Kotlin, Swift, Flutter, React Native (major)
+- Python
 - Node.js
 - PHP (rarely)
-- CSharp
-- Unity
+- CSharp, Unity(rarely)
 
 🔥 Editors:
 - VS Code / VSCodium / Cursor
@@ -46,6 +45,10 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=React)&nbsp;
 ![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=Vue.js)&nbsp;
+![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=Kotlin)&nbsp;
+![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=Swift)&nbsp;
+![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=Flutter)&nbsp;
+![ReactNative](https://img.shields.io/badge/-ReactNative-05122A?style=flat&logo=ReactNative)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
